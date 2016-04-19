@@ -1,0 +1,8 @@
+C:\Development\C# stub\GLStub\bin\Debug\GLStub.exe.config
+C:\Development\C# stub\GLStub\bin\Debug\GLStub.exe
+C:\Development\C# stub\GLStub\bin\Debug\GLStub.pdb
+C:\Development\C# stub\GLStub\bin\Debug\OpenTK.dll
+C:\Development\C# stub\GLStub\bin\Debug\OpenTK.xml
+C:\Development\C# stub\GLStub\obj\Debug\GLStub.csprojResolveAssemblyReference.cache
+C:\Development\C# stub\GLStub\obj\Debug\GLStub.exe
+C:\Development\C# stub\GLStub\obj\Debug\GLStub.pdb
